@@ -1,9 +1,10 @@
 This repository contains the details of the code, data processing steps, and software environment
 associated with the following paper:
 
-Risbey JS, Irving DB, Squire DT, Matear RJ, Monselesan DP, Pook MJ, Ramesh N, Richardson D & Tozer CR (submitted).
+Risbey JS, Irving DB, Squire DT, Matear RJ, Monselesan DP, Pook MJ, Ramesh N, Richardson D & Tozer CR (2023).
 A large ensemble illustration of how record-shattering heat records can endure.
-*Environmental Research: Climate*.
+*Environmental Research: Climate*. 2, 035003.
+[https://doi.org/10.1088/2752-5295/acd714](https://doi.org/10.1088/2752-5295/acd714)
 
 ## Code, data processing steps, and software environment
 
